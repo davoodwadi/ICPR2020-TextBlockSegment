@@ -6,3 +6,5 @@ The code for the ICPR 2020 [Text BLock Segmentation Competition](https://www.mat
 | ----------- | ----------- |
 | CITlab                              | Title       |
 | Luan Pham1 and Tuan Anh Tran [^1]   | Text        |
+
+[^1]: a footnote
