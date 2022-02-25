@@ -11,6 +11,8 @@ The code for the ICPR 2020 [Text BLock Segmentation Competition](https://www.mat
 
 The goal of participating in the competition is to show that simple DL architectures, such as MaskRCNN, coupled with mainstream image augmentations, can produce competitive results (even better results) than traditional computer vision techniques that require heavy feature engineering and extensive domain knowledge.
 
+[Dataset](https://www.mathematik.uni-rostock.de/forschung/projekte/citlab/projects/text-block-segmentation-competition-icpr2020/downloads/)
+
 [^1]: Cinnamon AI
 [^2]: Ho Chi Minh City University of Technology (HCMC University of Technology)
 [^3]: École des Hautes Études commerciales Montreal (HEC Montréal)
