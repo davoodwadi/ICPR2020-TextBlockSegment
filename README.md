@@ -6,7 +6,7 @@ The code for the ICPR 2020 [Text BLock Segmentation Competition](https://www.mat
 | ----------- | -------------------- | -------------------- |
 | CITlab      | 0.934                | 	0.768               |
 | Luan Pham [^1] and Tuan Anh Tran [^1] [^2]   | 0.999         | - |
-| Davood Wadi [^3] | 0.995                |  0.887               |
+| **Davood Wadi** [^3] | **0.995**                |  **0.887**               |
 | Xinfeng Chang [^4], Luyan Wang [^4], Hui Li [^4], Adam Wu [^4] and Lianwen Jin [^5] | 0.997 | 0.954 |
 
 [^1]: Cinnamon AI
