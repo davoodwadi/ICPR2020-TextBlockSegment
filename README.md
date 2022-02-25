@@ -5,7 +5,9 @@ The code for the ICPR 2020 [Text BLock Segmentation Competition](https://www.mat
 |             | F-Value Simple Track | F-Value Complex Track|
 | ----------- | -------------------- | -------------------- |
 | CITlab      | 0.934                | 	0.768               |
-| Luan Pham1 and Tuan Anh Tran [^1] [^2]   | 0.999.         | - |
+| Luan Pham [^1] and Tuan Anh Tran [^1] [^2]   | 0.999         | - |
+| Davood Wadi [^3] | 0.995                |  0.887               |
+| Xinfeng Chang [^4], Luyan Wang [^4], Hui Li [^4], Adam Wu [^4] and Lianwen Jin [^5] | 0.997 | 0.954 |
 
 [^1]: Cinnamon AI
 [^2]: Ho Chi Minh City University of Technology (HCMC University of Technology)
