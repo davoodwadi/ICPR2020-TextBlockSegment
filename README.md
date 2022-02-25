@@ -2,10 +2,13 @@ The code for the ICPR 2020 [Text BLock Segmentation Competition](https://www.mat
 
 [Results](https://www.mathematik.uni-rostock.de/forschung/projekte/citlab/projects/text-block-segmentation-competition-icpr2020/results/). 
 
-|             | Description |
-| ----------- | ----------- |
-| CITlab                              | Title       |
-| Luan Pham1 and Tuan Anh Tran [^1] [^2]   | Text        |
+|             | F-Value Simple Track | F-Value Complex Track|
+| ----------- | -------------------- | -------------------- |
+| CITlab      | 0.934                | 	0.768               |
+| Luan Pham1 and Tuan Anh Tran [^1] [^2]   | 0.999.         | - |
 
-[^1]: a footnote
-[^2]: 3effsdf
+[^1]: Cinnamon AI
+[^2]: Ho Chi Minh City University of Technology (HCMC University of Technology)
+[^3]: École des Hautes Études commerciales Montreal (HEC Montréal)
+[^4]: Lenovo Research
+[^5]: South China University of Technology (SCUT)
